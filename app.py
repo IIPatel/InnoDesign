@@ -22,9 +22,9 @@ st.sidebar.subheader("Project Info")
 st.sidebar.text("AI-Powered Product Design")
 
 # Main app title and description
-st.title("AI Product Design & Development Tool")
+st.title("InnoDesign: an AI Product Design & Development Tool")
 st.markdown("""
-Welcome to the AI-powered product design and development tool. This app leverages generative AI to accelerate the design process, optimize products for manufacturing, and simulate product performance.
+Welcome to 'InnoDesign', the AI-powered product design and development tool. This app leverages generative AI to accelerate the design process, optimize products for manufacturing, and simulate product performance.
 """)
 
 # Tabs for different sections of the app
